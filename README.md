@@ -7,13 +7,16 @@ A module that can endode and decode your text with your given key.
 | ![LICENSE](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green.svg)| ![Tests](https://img.shields.io/badge/Tests-Passing-blue.svg) |
 | :----- | :----- |
 | ![Builds](https://img.shields.io/badge/Builds-Passing-blue.svg) | ![Maintainer](https://img.shields.io/badge/Maintainer-Parvat-black.svg) |
+| [![PYPI](https://img.shields.io/badge/PYPI-cryptrooper-purple.svg)](https://pypi.com/project/cryptrooper) | [![UNIT OF](https://img.shields.io/badge/UNIT%20OF-SPRINGREEN-maganta.svg)](https://github.com/sprin-g-reen) |
 
 ## Features
 
 - No additinal installation required.
-- Can work on any system with python >= 3.8
+- Can work on any system with python >= 3.x
 - Can encode and decode text of any language.
 - Can encode and decode emoticons and symbols also.
+
+
 ## Installation 
 
 
