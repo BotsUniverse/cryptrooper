@@ -16,16 +16,16 @@ A module that can endode and decode your text with your given key.
 - Can encode and decode emoticons and symbols also.
 ## Installation 
 
-Install cryptrooper with git-clone
 
-```bash 
-  git clone https://github.com/sprin-g-reen/cryptrooper
-  cd cryptrooper
+Install cryptrooper with pypi
+
+```bash
+  pip install cryptrooper
 ```
+
 ## Documentation
 
-Install the cryptrooper in your working directory.
-`Crypto` is a class in the `__init__.py` file at the directory `cryptrooper`.
+`Crypto` is a class in the `__init__.py` file at the module `cryptrooper`.
 
 #### Parameters:
 - text 
