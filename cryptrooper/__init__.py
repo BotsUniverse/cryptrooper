@@ -38,7 +38,7 @@ class Crypto:
                 "encoded": total,
                 "decoded": self.txt,
                 "result": total.strip(),
-                "error": None
+                "error": e
             }
 
 
